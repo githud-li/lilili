@@ -40,6 +40,15 @@
         ssh-keygen -t rsa -C "2636664891li.gmail.com"
 
     12、git remote add origin 厂库地址
+        git push -u origin main  
+
+        git push 上传
+        git clone 厂库地址 第一次拉远程仓库代码
+    
+    13、git pull
+        从远程仓库同步本地代码
+
+
 
 
 
